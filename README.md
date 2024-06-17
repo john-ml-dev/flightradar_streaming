@@ -33,3 +33,6 @@ docker compose -up -d
 _**Note:**_ Ensure the Docker Compose file runs successfully and verify that all services are running and healthy in the Docker Desktop app before running the `producer.py` or `consumer.py` files.
 
 Once set up, the data should stream live in your terminals.
+To stop the docker container run 
+```shell
+docker compose down
