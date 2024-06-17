@@ -1,0 +1,11 @@
+flight_id,flight,callsign,squawk,clicks,from_iata,from_city,to_iata,to_city,model,type
+35b803ee,,,,1856,FFD,Fairford,,,U2,Lockheed U-2S
+35b8289a,SK929,SAS929,,1184,CPH,Copenhagen,ATL,Atlanta,A333,Airbus A330-343
+35ba0083,QS2222,TVS2222,,852,JCL,Ceske Budejovice,RHO,Rhodes,B738,Boeing 737-8FN
+35b9ea29,,S92,,736,,,,,S92,
+35b76ce6,EK261,UAE261,,632,DXB,Dubai,GRU,Sao Paulo,A388,Airbus A380-842
+35b91449,,,,600,,,,,B52,Boeing B-52H Stratofortress
+35b9fc64,EK20,UAE20,,544,MAN,Manchester,DXB,Dubai,A388,Airbus A380-842
+35b9eb72,QF2,QFA2,,428,LHR,London,SIN,Singapore,A388,Airbus A380-842
+35b8a31f,BA213,BAW1B,,324,LHR,London,BOS,Boston,A388,Airbus A380-841
+35ba0283,,B429,,224,,,,,B429,
